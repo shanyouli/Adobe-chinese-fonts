@@ -1,0 +1,8 @@
+* 这是一个我自己使用的 adobe-chinese-font
+** 包含字体
+- Adobe FangSong Std --> Adobe 仿宋
+- Adobe FanHeiti Std --> Adobe 繁黑体
+- Adobe Heiti Std  --> Adobe 黑体
+- Adobe Kaiti Std --> Adobe 楷体
+- Adobe Ming  Std --> Adobe 明体
+- Adobe Song  Std -->  Adobe 宋体
